@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2988EDC6-941C-491A-A578-9A234DF6FE2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D57E605-FB7F-410E-BCAA-CF242F8E4118"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "437"
+            endingLineNumber = "437"
+            landmarkName = "simvolButtonIsPressed(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63D867E3-E0AE-454F-B63B-E480ADC0D889"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "449"
+            endingLineNumber = "449"
+            landmarkName = "deleteButtonIsPresesed(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63D867E3-E0AE-454F-B63B-E480ADC0D889 - 2dd8979ea7ffe2bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator.ViewController.deleteButtonIsPresesed(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivankovalov/Desktop/IKovalov/calculator/calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "245"
+                  endingLineNumber = "245"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+               <Location
+                  uuid = "63D867E3-E0AE-454F-B63B-E480ADC0D889 - 2dd8979ea7ffe2bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator.ViewController.deleteButtonIsPresesed(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivankovalov/Desktop/IKovalov/calculator/calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "245"
+                  endingLineNumber = "245"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+               <Location
+                  uuid = "63D867E3-E0AE-454F-B63B-E480ADC0D889 - 2dd8979ea7ffe2bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator.ViewController.deleteButtonIsPresesed(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivankovalov/Desktop/IKovalov/calculator/calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "245"
+                  endingLineNumber = "245"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A13CA08-E85E-42AE-A006-C96EB551D370"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
+            landmarkName = "deleteButtonIsPresesed(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE1A45D8-C0A0-46B6-BB16-83B3C4F3AB63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
+            landmarkName = "deleteButtonIsPresesed(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE1A45D8-C0A0-46B6-BB16-83B3C4F3AB63 - 2dd8979ea7fffd67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator.ViewController.deleteButtonIsPresesed(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivankovalov/Desktop/IKovalov/calculator/calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+               <Location
+                  uuid = "EE1A45D8-C0A0-46B6-BB16-83B3C4F3AB63 - 2dd8979ea7fffd46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator.ViewController.deleteButtonIsPresesed(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivankovalov/Desktop/IKovalov/calculator/calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36EA7B24-826E-4E5B-B55D-777CCCC2F143"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "configResultLabel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
